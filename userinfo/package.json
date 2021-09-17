@@ -1,0 +1,13 @@
+{
+  "name": "userinfo",
+  "version": "1.0.0",
+  "description": "Get user details",
+  "main": "index.js",
+  "author": "Divya",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "mongoose": "^6.0.6"
+  }
+}
